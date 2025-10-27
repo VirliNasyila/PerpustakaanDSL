@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/perpustakaan.language.runtime/perpustakaan.language.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/perpustakaan.language.sandbox/perpustakaan.language.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/perpustakaan.language/perpustakaan.language.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
