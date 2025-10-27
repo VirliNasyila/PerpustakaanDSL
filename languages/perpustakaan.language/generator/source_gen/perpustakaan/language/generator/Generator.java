@@ -28,6 +28,7 @@ public class Generator extends TemplateModuleInterpreted2 {
   @Override
   protected void fillTemplateModels(TemplateModuleInterpreted2.TemplateModels models) {
     models.templates("r:f22de0fb-9d71-4aa9-96a1-f98b987d9864", QueriesGenerated.class);
+    models.templates("r:d0c82398-bdf9-4d14-919f-64d5420b7071", perpustakaan.language.generator.templates.perpus.QueriesGenerated.class);
   }
 
 
